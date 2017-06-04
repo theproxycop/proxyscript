@@ -1,0 +1,2 @@
+chmod +x proxy-debian-linux.sh
+sudo ./proxy-debian-linux.sh
